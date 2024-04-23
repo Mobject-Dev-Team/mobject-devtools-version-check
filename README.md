@@ -1,4 +1,4 @@
-# mobject-dev-versions
+# Mobject Developer Tools - Version Check
 
 This is a node.js development helper tool for checking the current versions inside your mobject folder.
 
